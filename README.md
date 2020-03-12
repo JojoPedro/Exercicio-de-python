@@ -10,4 +10,6 @@
 <h1>Why?</h1>
 <h3>Recently I've been studying python so I'm solving some exercises from the PythonBrasil list. Some of them will be basic and others a tricky one, but we know that the only way to learn to program is by the fingers, so let's work
 </h3>
-![thumbs](https://user-images.githubusercontent.com/60113442/76576919-629a9980-64a2-11ea-9b7a-91fd9e8b53d3.jpg)
+
+
+![thumbs](https://user-images.githubusercontent.com/60113442/76577095-ebb1d080-64a2-11ea-8750-cce1162f3a58.jpg)
