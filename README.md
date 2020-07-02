@@ -8,7 +8,7 @@
 <h3>Repository made solely for python exercise resolution</h3>
 
 <h1>Why?</h1>
-<h3>Recently I've been studying python so I'm solving some exercises from the PythonBrasil list. Some of them will be basic and others a tricky one, but we know that the only way to learn to program is by the fingers, so let's work
+<h3>Recently I've been studying python so I'm solving some exercises from PythonBrasil list. Some of them will be basic and others a tricky one, but we know that the only way to learn to program is by the fingers, so let's work
 </h3>
 
 
