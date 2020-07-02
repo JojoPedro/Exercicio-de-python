@@ -3,14 +3,25 @@ Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
 """
 
-n1 = float(input('Insira o numero: '))
-n2 = float(input('Insira o numero: '))
-n3 = float(input('Insira o numero: '))
+n1 = int(input('Insira o numero1: '))
+n2 = int(input('Insira o numero2: '))
+n3 = int(input('Insira o numero3: '))
 
-if n1 > n2 and n1 > n3 and n2 > n3:
-    lista = n1,n2,n3
-elif n2 > n1 and n2 > n3 and n1 > n3:
-    lista = n2,n3,n1
-elif n3 > n1 and n3 > n2 and n2 > n1:
-    lista = n3,n2,n1
-    print('A ordem de número é: ',lista)
+print(n1, '-', n2, '-', n3)
+
+if (n3 > n2):
+    aux = n3
+    n3 = n2
+    n2 = aux
+
+if (n2 > n1):
+    aux = n2
+    n2 = n1
+    n1 = aux
+
+if (n3 > n2):
+    aux = n3
+    n3 = n2
+    n2 = aux
+
+print(n1, '-', n2, '-', n3)
