@@ -51,6 +51,7 @@ elif media >= 4 and media <= 6:
     print('Você tirou um D! Você foi reprovado')
     print('Sua média é de: ',media)
 
+
 #Nota E
 
 elif media < 4:
