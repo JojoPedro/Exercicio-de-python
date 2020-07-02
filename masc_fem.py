@@ -5,4 +5,4 @@ if sexo == 'M':
 elif sexo == 'F':
     print('O sexo é Feminino:')
 else:
-    print(('Sexo invalido'))
+    print(('Opção invalida'))
