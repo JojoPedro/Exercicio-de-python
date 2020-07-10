@@ -12,4 +12,4 @@
 </h3>
 
 
-![thumbs](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2e39EkvSYMT4xEyOmMr2bf4_RMs6tRbrFEA&usqp=CAU)
+![thumbs](https://pbs.twimg.com/media/EU1FDDxUcC4Fc83.jpg)
